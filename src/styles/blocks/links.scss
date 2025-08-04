@@ -3,10 +3,12 @@
 .links {
   height: 238px;
   width: 199px;
+  display: block;
 
   &__list {
     list-style-type: none;
     color: black;
+    display: block;
   }
 
   &__item {
